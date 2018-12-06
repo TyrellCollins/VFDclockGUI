@@ -1,0 +1,2 @@
+# VFDclockGUI
+starting fresh
